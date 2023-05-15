@@ -134,7 +134,7 @@ Servo servoV; // Servo que roda na vertical
 int servoHPos = 90;    // Varies between 0-180
 int servoVPos = 140;   // Varies between 0-140
 // Recommended PWM GPIO pins on the ESP32 include 2,4,12-19,21-23,25-27,32-33
-int servoHPin = 13;
+int servoHPin = 15;
 int servoVPin = 14;
 
 bool patrol = false;
