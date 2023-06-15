@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Servo")(type "KiCad")(uri "C:/Users/Nicolas/Desktop/camera_seguranca1")(options "")(descr ""))
+)
